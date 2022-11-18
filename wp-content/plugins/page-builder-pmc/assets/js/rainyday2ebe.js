@@ -607,7 +607,7 @@ RainyDay.prototype.prepareBackground = function() {
 };
 
 /**
- * Implements the Stack Blur Algorithm (@see http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html).
+ * Implements the Stack Blur Algorithm (@see https://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html).
  * @param width width of the canvas
  * @param height height of the canvas
  * @param radius blur radius
